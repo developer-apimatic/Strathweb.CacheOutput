@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebApi.OutputCache.V2</id>
+    <version>$PackageVersion$</version>
+    <title>WebApi.OutputCache.V2</title>
+    <authors>APIMATIC Ltd.</authors>
+    <projectUrl>https://apimatic.io/</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Code generation packages for APIMATIC projects</description>
+    <summary />
+    <releaseNotes />
+    <copyright>Copyright 2015</copyright>
+    <language>en-US</language>
+  </metadata>
+  <files>
+    <file src="bin\Release\WebApi.OutputCache.V2.dll" target="lib\net40\WebApi.OutputCache.V2.dll" />
+  </files>
+</package>
